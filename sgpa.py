@@ -56,7 +56,7 @@ data = {
     'messages': [
         {
             'role': "user",
-            'content': "Extract only the column named 'Credit' next to 'Grade' from the file in a python list.",
+            'content': "What are the credits of the subjects. Give them in list closed by square brackets",
         }
     ]
 }
